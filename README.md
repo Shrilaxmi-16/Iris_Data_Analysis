@@ -78,21 +78,21 @@ This project demonstrates **data analysis, preprocessing, and classification** o
   - Plotted decision boundaries with **K=5**.  
   - Displayed much clearer separation between all three species.  
 
-## 📊 Results  
+##  Results  
 
 - Accuracy varied slightly with different `K` values, with **K=5** giving stable results.  
 - PCA-based visualization captured better class separations compared to raw features.  
 - Decision boundaries clearly show the separation between **Setosa, Versicolor, and Virginica**.  
 
 
-## 🛠️ Technologies Used  
+##  Technologies Used  
 - Python  
 - Pandas, NumPy  
 - Scikit-learn (KNeighborsClassifier, StandardScaler, PCA)  
 - Matplotlib, Seaborn  
 
 
-## 🚀 How to Run  
+##  How to Run  
 
 1. Clone the repository:  
    ```bash
