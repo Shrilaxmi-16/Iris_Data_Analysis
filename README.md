@@ -100,7 +100,7 @@ showing how dimensionality reduction (PCA) improves visualization of complex cla
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/iris-knn-classification.git
+   git clone https://github.com/Shrilaxmi-16/Iris_Data_Analysis.git
    cd iris-knn-classification
 
  
