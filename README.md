@@ -1,5 +1,4 @@
-
-# Iris Dataset Classification using KNN  
+# Iris Data Classification using KNN  
 
 This project demonstrates **data analysis, preprocessing, and classification** on the famous **Iris dataset**. We use **K-Nearest Neighbors (KNN)** as the classifier, experiment with different values of *K*, evaluate the model, and visualize the decision boundaries.  
 
