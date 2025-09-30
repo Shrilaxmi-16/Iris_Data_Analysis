@@ -91,6 +91,11 @@ This project demonstrates **data analysis, preprocessing, and classification** o
 - Matplotlib, Seaborn  
 
 
+## Conclusion  
+This analysis demonstrates the full workflow:  
+**EDA → Preprocessing → Classification with KNN → Evaluation → Visualization**,  
+showing how dimensionality reduction (PCA) improves visualization of complex class boundaries. 
+
 ##  How to Run  
 
 1. Clone the repository:  
@@ -98,8 +103,4 @@ This project demonstrates **data analysis, preprocessing, and classification** o
    git clone https://github.com/your-username/iris-knn-classification.git
    cd iris-knn-classification
 
-
-## Conclusion  
-This analysis demonstrates the full workflow:  
-**EDA → Preprocessing → Classification with KNN → Evaluation → Visualization**,  
-showing how dimensionality reduction (PCA) improves visualization of complex class boundaries.  
+ 
